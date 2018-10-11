@@ -1,2 +1,2 @@
 # leetcode
-# 紀錄leetcode題目
+紀錄leetcode題目
